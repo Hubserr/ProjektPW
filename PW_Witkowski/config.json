@@ -1,0 +1,9 @@
+{
+  "liczba_kas": 4,
+  "max_klientow": 40,
+  "czas_obslugi_min": 2000,
+  "czas_obslugi_max": 4000,
+  "czas_przerwy_kasjera": 7000,
+  "czas_przychodu_klienta": 600,
+  "szansa_na_przerwe": 0.15
+}
